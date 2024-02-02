@@ -1,7 +1,6 @@
 # Brussels - Hopper 5 - 2024
 
-This repo is your go-to place for all information on your activities at BeCode: briefings, tutorials, etc.  
-Clone it on your computer and `git pull` regularly in order to fetch the latest updates made by your coaches.
+This repo is your go-to place for all information on your activities at BeCode: briefings, tutorials, etc.
 
 ## ➡️ What's coming
 
@@ -42,11 +41,11 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 
 - React
 - Tailwind
-- Diving deeper in your technology of interest
+- Diving deeper in your technology of interest (3 weeks)
 
-### 🚠 Summer pastures (8 weeks / 02/09 - 15/11)
+### 🚠 Summer pastures (7 weeks / 02/09 - 01/11)
 
-- BIG PROJECT
+- BIG PROJECT in the technology of your choice
 - Building portfolio
 - Sharing knowledge
 - Preparing for internship
