@@ -37,13 +37,14 @@ This repo is your go-to place for all information on your activities at BeCode: 
 - Mongoose
 - Authentication
 
-### ⛰️ The mountain (7 weeks / 29/07 - 23/08)
+### ⛰️ The mountain (8 weeks / 29/07 - 27/09)
 
+- Full Stack Project
 - React
 - Tailwind
-- Diving deeper in your technology of interest (3 weeks)
+- Diving deeper in your technology of interest (4 weeks)
 
-### 🚠 Summer pastures (7 weeks / 02/09 - 01/11)
+### 🚠 Summer pastures (5 weeks / 30/09 - 01/11)
 
 - BIG PROJECT in the technology of your choice
 - Building portfolio
