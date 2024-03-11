@@ -24,6 +24,7 @@ This repo is your go-to place for all information on your activities at BeCode: 
 - JSON
 - Async JS
 - Consuming APIs
+- Frontend project with API (groups of two)
 
 --
 
@@ -36,7 +37,7 @@ This repo is your go-to place for all information on your activities at BeCode: 
 - Databases : MySQL and MongoDB
 - Mongoose
 - Authentication
-- Full Stack Project (2 weeks)
+- Full Stack Project (2 weeks) - groups of two
 
 ### ⛰️ The mountain (2 weeks / 12/08 - 23/08)
 
@@ -54,12 +55,20 @@ SPLIT : BACKEND or FRONTEND ?
 ---
 
 - Diving deeper in your technology of interest (5 weeks)
+  - **FULL-STACK**
   - Next.js
-  - PHP basics-Wordpress
+  - PHP basics - Wordpress
+  - React Native
+  - **BACKEND**
   - PHP - Laravel
   - .NET
   - Java - Springboot
-  - React Native
+  - Python - Django
+  - **FRONTEND**
+  - Sprint of fronted projects (1 per week)
+    - Integration pixel-perfect of several designs
+    - API consuming projects
+    - Intensive use of librairies for animation (GSAP, etc.)
 - Project in the technology of your choice (2 weeks)
 - Building portfolio
 - Sharing knowledge
@@ -79,7 +88,7 @@ Read the following documents:
 Your contacts at BeCode:
 
 1. Your lead coach: Henrique Vieira - [henrique.vieira@becode.org]()
-2. Your professional insertion referent: Marina Nozhenko - [marina.nozhenko@becode.org]()
+2. Your professional insertion referent: David Thewissen - [david@becode.org]()
 
 ## 🛠️ Tools and Resources
 

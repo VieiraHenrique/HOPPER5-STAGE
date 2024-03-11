@@ -57,7 +57,3 @@ It's always good to explain to friends how to set up your work locally.
 Either so they can use it or so they can help you improve it!
 
 ### Where did it come from? A client or an exercise to do in class... Specify!
-
-### Small examples to illustrate
-
-Because a picture is worth a thousand words
