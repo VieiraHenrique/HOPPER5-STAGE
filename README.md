@@ -37,16 +37,23 @@ This repo is your go-to place for all information on your activities at BeCode: 
 - Mongoose
 - Authentication
 
-### ⛰️ The mountain (8 weeks / 29/07 - 27/09)
+### ⛰️ The mountain (9 weeks / 29/07 - 27/09)
 
 - Full Stack Project
 - React
 - Tailwind
-- Diving deeper in your technology of interest (4 weeks)
 
-### 🚠 Summer pastures (5 weeks / 30/09 - 01/11)
+---
 
-- BIG PROJECT in the technology of your choice
+SPLIT : BACKEND or FRONTEND ?
+
+---
+
+- Diving deeper in your technology of interest (5 weeks)
+
+### 🚠 Summer pastures (4 weeks / 30/09 - 01/11)
+
+- Project in the technology of your choice (2 weeks)
 - Building portfolio
 - Sharing knowledge
 - Preparing for internship
@@ -84,8 +91,6 @@ In short here is what you do in any of the three cases above:
 
 1. Send a message to _all_ your coach(es) by mail (and perhaps Discord too)
 
-@@@@@@@@@@@@@@@@@@
-
 **[Reminder](https://github.com/becodeorg/BeCode/blob/master/educationalcontract.md#sanctions)**:
 
 - 2 unjustified occasions of being late or leaving early is seen as an absence
@@ -108,19 +113,17 @@ There are 2 vacation blocks of one week:
 
 Additional holidays:
 
-@@@@@@@@@@@@@@@@@@
-| Date | What |
-| ---- | ---- |
-| | |
-| | |
-| | |
+| Date  | What               |
+| ----- | ------------------ |
+| 01/05 | Fête du travail    |
+| 09/05 | Ascension          |
+| 20/05 | Pentecôte          |
+| 15/08 | Ascension de Marie |
+| 01/11 | Toussaint          |
+| 11/11 | Armistice          |
 
 ## 👩‍🎓 Cursus
 
-Here are the links to each cursus step. (they will be updated while we go)
-
-1. [The Field](./1.The-Field)
-2. [The Hill](./2.The-Hill)
-3. [The Mountain](./3.The-Mountain)
+Follow the chapters in order.
 
 And remember, we NEVER give up! ;)
