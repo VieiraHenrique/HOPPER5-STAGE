@@ -12,7 +12,7 @@ This repo is your go-to place for all information on your activities at BeCode: 
 - JavaScript Foundamentals
 - Problem solving (algorithms)
 
-### 🏕️ The hill (12 weeks / 13/05 - 26/07)
+### 🏕️ The hill (12 weeks / 13/05 - 09/08)
 
 **FRONTEND** (6 weeks)
 
@@ -36,16 +36,16 @@ This repo is your go-to place for all information on your activities at BeCode: 
 - Databases : MySQL and MongoDB
 - Mongoose
 - Authentication
-- Full Stack Project (group of 2)
+- Full Stack Project (2 weeks)
 
-### ⛰️ The mountain (3 weeks / 29/07 - 27/09)
+### ⛰️ The mountain (2 weeks / 12/08 - 23/08)
 
 - React
 - Tailwind
 - BAAS
 - Full Stack Project (solo)
 
-### 🚠 Summer pastures (9 weeks / 30/09 - 01/11)
+### 🚠 Summer pastures (9 weeks / 02/09 - 01/11)
 
 ---
 
@@ -58,7 +58,8 @@ SPLIT : BACKEND or FRONTEND ?
   - PHP basics-Wordpress
   - PHP - Laravel
   - .NET
-  - Java
+  - Java - Springboot
+  - React Native
 - Project in the technology of your choice (2 weeks)
 - Building portfolio
 - Sharing knowledge
