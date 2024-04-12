@@ -4,7 +4,7 @@
 
 Now that you know how Git and Github work, let's do the following :
 
-- Each one of you will create a repo called `[BECODE-YOURNAME]` in your account where all your exercises will be pushed so I am able to check them and eventually give you some feedback.
+- Each one of you will create a personal repo in your account called `[BECODE-YOURNAME]` where all your exercises will be pushed so I am able to check them and eventually give you some feedback.
 
 - You can make it private and grant access to me (`VieiraHenrique`) as an Admin. So only you and me will be able to check your repo.
 
