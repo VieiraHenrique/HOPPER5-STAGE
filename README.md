@@ -1,12 +1,13 @@
 # Brussels - Hopper 5 - 2024
 
-This repo is your go-to place for all information on your activities at BeCode: briefings, tutorials, etc.
+---
 
 ## ➡️ What's coming
 
 ### 🌱 The field (4 weeks / 16/04 - 10/05)
 
 - Setup
+- Markdown
 - Terminal
 - Git
 - JavaScript Foundamentals
@@ -16,7 +17,6 @@ This repo is your go-to place for all information on your activities at BeCode: 
 
 **FRONTEND** (6 weeks)
 
-- Markdown
 - HTML
 - CSS
 - Sass
@@ -60,10 +60,11 @@ SPLIT : BACKEND or FRONTEND ?
   - PHP basics - Wordpress
   - React Native
   - **BACKEND**
+  - Node - Express
   - PHP - Laravel
-  - .NET
-  - Java - Springboot
-  - Python - Django
+  - C# - .NET (no material available. By yourself)
+  - Java - Springboot (no material available. By yourself)
+  - Python - Django (no material available. By yourself)
   - **FRONTEND**
   - Sprint of fronted projects (1 per week)
     - Integration pixel-perfect of several designs
@@ -94,10 +95,9 @@ Your contacts at BeCode:
 
 - [More info on the tech talks](./Extra-Info/Tech-Talks.md)
 
-- [Extra Info](./Extra-Info)
-  - How to write a README
-  - How to Google things
-  - What IDE (= editor) to use
+- Extra Info
+  - [How to write a README](./Extra-Info/Writing-A-Good-Readme.md)
+  - [How to Google things](./Extra-Info/How-To-Master-Google.md)
 
 ## 🕑 Respect for planning: being late & absence
 
@@ -105,7 +105,7 @@ In case of **delay**, **absence** or **early leave** (planned or not), you will 
 
 In short here is what you do in any of the three cases above:
 
-1. Send a message to _all_ your coach(es) by mail (and perhaps Discord too)
+1. Send a message to your coach by mail (and perhaps Discord too)
 
 **[Reminder](https://github.com/becodeorg/BeCode/blob/master/educationalcontract.md#sanctions)**:
 
