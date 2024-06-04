@@ -45,6 +45,18 @@ This requires a good coordination between the duo to set how the html, css and j
 
 Here are the groups :
 
+Groupe 1 : Ayman - Abdeslam
+Groupe 2 : Steve - Adam
+Groupe 3 : Nouhéila - Shana
+Groupe 4 : Lorenzo - Nathaly
+Groupe 5: Sloane - Adil
+Groupe 6 : Philémon - Maxime
+Groupe 7 : Rachid - Arthur
+Groupe 8 : Laurent - Soulaymane
+Groupe 9 : Nicolas - Henry
+Groupe 10 : Dylan - Radad
+Groupe 11 : Mathieu
+
 ---
 
 **TIPS :**
